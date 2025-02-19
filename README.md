@@ -1,2 +1,2 @@
 # LearningGithub001
-this is a description for README file
+Our first line of code is here
